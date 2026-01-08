@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\bin\Debug\swich upp 6.exe.config
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\bin\Debug\swich upp 6.exe
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\bin\Debug\swich upp 6.pdb
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\obj\Debug\swich upp 6.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\obj\Debug\swich upp 6.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\obj\Debug\swich upp 6.exe
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\obj\Debug\swich upp 6.pdb
+C:\Users\Axevalla\Documents\Ida\swich upp 6\swich upp 6\obj\Debug\swich upp 6.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\bin\Debug\upp 4 ida.exe.config
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\bin\Debug\upp 4 ida.exe
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\bin\Debug\upp 4 ida.pdb
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\obj\Debug\upp 4 ida.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\obj\Debug\upp 4 ida.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\obj\Debug\upp 4 ida.exe
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\obj\Debug\upp 4 ida.pdb
+C:\Users\Axevalla\Documents\ida\ida pro\upp 4 ida\upp 4 ida\obj\Debug\upp 4 ida.exe.config

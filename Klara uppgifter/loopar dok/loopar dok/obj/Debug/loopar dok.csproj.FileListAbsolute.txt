@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\bin\Debug\loopar dok.exe.config
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\bin\Debug\loopar dok.exe
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\bin\Debug\loopar dok.pdb
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\obj\Debug\loopar dok.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\obj\Debug\loopar dok.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\obj\Debug\loopar dok.exe
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\obj\Debug\loopar dok.pdb
+C:\Users\Axevalla\Documents\ida\ida pro\loopar dok\loopar dok\obj\Debug\loopar dok.exe.config

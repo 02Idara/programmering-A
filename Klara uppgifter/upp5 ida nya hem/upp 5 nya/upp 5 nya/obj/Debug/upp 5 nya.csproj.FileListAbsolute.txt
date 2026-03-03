@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\bin\Debug\upp 5 nya.exe.config
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\bin\Debug\upp 5 nya.exe
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\bin\Debug\upp 5 nya.pdb
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\obj\Debug\upp 5 nya.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\obj\Debug\upp 5 nya.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\obj\Debug\upp 5 nya.exe
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\obj\Debug\upp 5 nya.pdb
+C:\Users\Axevalla\Documents\ida\ida pro\upp5 ida nya hem\upp 5 nya\upp 5 nya\obj\Debug\upp 5 nya.exe.config

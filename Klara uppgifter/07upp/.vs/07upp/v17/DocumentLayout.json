@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Documents\\Ida\\ida pro\\07upp\\",
+  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Documents\\Ida\\ida pro\\axevalla-programmering-grund\\Klara uppgifter\\07upp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D44AE24-FA4D-4138-BF6E-FBC5461882BD}|07upp\\07upp.csproj|c:\\users\\axevalla\\documents\\ida\\ida pro\\07upp\\07upp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D44AE24-FA4D-4138-BF6E-FBC5461882BD}|07upp\\07upp.csproj|c:\\users\\axevalla\\documents\\ida\\ida pro\\axevalla-programmering-grund\\klara uppgifter\\07upp\\07upp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D44AE24-FA4D-4138-BF6E-FBC5461882BD}|07upp\\07upp.csproj|solutionrelative:07upp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Axevalla\\Documents\\Ida\\ida pro\\07upp\\07upp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Documents\\Ida\\ida pro\\axevalla-programmering-grund\\Klara uppgifter\\07upp\\07upp\\Program.cs",
               "RelativeDocumentMoniker": "07upp\\Program.cs",
-              "ToolTip": "C:\\Users\\Axevalla\\Documents\\Ida\\ida pro\\07upp\\07upp\\Program.cs*",
-              "RelativeToolTip": "07upp\\Program.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Axevalla\\Documents\\Ida\\ida pro\\axevalla-programmering-grund\\Klara uppgifter\\07upp\\07upp\\Program.cs",
+              "RelativeToolTip": "07upp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T09:28:39.099Z",
               "EditorCaption": ""

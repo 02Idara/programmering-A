@@ -6,3 +6,11 @@ C:\Users\Axevalla\Documents\Ida\ida pro\07upp\07upp\obj\Debug\07upp.csproj.CoreC
 C:\Users\Axevalla\Documents\Ida\ida pro\07upp\07upp\obj\Debug\07upp.exe
 C:\Users\Axevalla\Documents\Ida\ida pro\07upp\07upp\obj\Debug\07upp.pdb
 C:\Users\Axevalla\Documents\Ida\ida pro\07upp\07upp\obj\Debug\07upp.exe.config
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\bin\Debug\07upp.exe.config
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\bin\Debug\07upp.exe
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\bin\Debug\07upp.pdb
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\obj\Debug\07upp.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\obj\Debug\07upp.exe.config
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\obj\Debug\07upp.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\obj\Debug\07upp.exe
+C:\Users\Axevalla\Documents\Ida\ida pro\axevalla-programmering-grund\Klara uppgifter\07upp\07upp\obj\Debug\07upp.pdb

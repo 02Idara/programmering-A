@@ -10,7 +10,7 @@ namespace upp_9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hej");
+            Console.WriteLine("hej");//
         }
     }
 }

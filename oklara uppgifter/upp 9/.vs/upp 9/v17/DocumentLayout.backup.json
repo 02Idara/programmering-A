@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Documents\\ida\\programering\\programmering-A\\oklara uppgifter\\upp 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A00FC53-BE18-42D1-A423-42B65777C5CA}|upp 9\\upp 9.csproj|c:\\users\\axevalla\\documents\\ida\\programering\\programmering-a\\oklara uppgifter\\upp 9\\upp 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A00FC53-BE18-42D1-A423-42B65777C5CA}|upp 9\\upp 9.csproj|solutionrelative:upp 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Documents\\ida\\programering\\programmering-A\\oklara uppgifter\\upp 9\\upp 9\\Program.cs",
+              "RelativeDocumentMoniker": "upp 9\\Program.cs",
+              "ToolTip": "C:\\Users\\Axevalla\\Documents\\ida\\programering\\programmering-A\\oklara uppgifter\\upp 9\\upp 9\\Program.cs",
+              "RelativeToolTip": "upp 9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:10:59.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

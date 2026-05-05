@@ -19,7 +19,7 @@ namespace upp_9
             Console.WriteLine("Skriv in person 3");
             namn[2] = Console.ReadLine();
 
-            Console.WriteLine(" sök person");
+            Console.WriteLine("Sök efter en person tryck 1,2,3 eller tryck 0 för att se alla");
             int val = int.Parse(Console.ReadLine());
 
             if (val == 0 || val == 1 || val == 2 || val == 3)
@@ -28,7 +28,7 @@ namespace upp_9
                 {
                     for (int i = 0; i < namn.Length; i++) 
                     {
-                        Console.WriteLine("person " + (i+1) + " " + namn[i] );
+                        Console.WriteLine("Person " + (i+1) + " " + namn[i] );
                     }
                 }
                 else

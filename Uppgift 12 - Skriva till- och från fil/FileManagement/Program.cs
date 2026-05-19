@@ -12,9 +12,9 @@ namespace FileManagement
         static void Main(string[] args)
         {
             //Hämta information ifrån textfilen! Denna fil finns lokalt på datorn.
-            string input01 = File.ReadAllText("../../Tim's mapp/File00.txt");
-            //string input02 = ??? (ReadAllText)
-            //string[] input03 = ??? (ReadAllLines)
+            string input01 = File.ReadAllText("../../FilesToRead/File01.txt");
+            string input02 = File.ReadAllText("../../FilesToRead/File02.txt");
+            string[] input03 = File.ReadAllLines("../../FilesToRead/File03.txt");
             //string[] input04 = ??? (ReadAllLines)
 
             //Jobba med File01 här
@@ -23,9 +23,16 @@ namespace FileManagement
 
             //Jobba med File02 här
             //Kalla på funktion
+            List<int> result02 = File02Task(input02);
+            foreach(int x in result02)
+            {
+                Console.WriteLine(x);
+
+            }
 
             //Jobba med File03 här
             //Kalla på funktion
+            int[] result03 = File03Task(input03);
 
             //Jobba med File04 här
             //Kalla på funktion
@@ -42,6 +49,7 @@ namespace FileManagement
             //Detta så att vi kan använda oss av funktionen "sort".
             char[] listToSort = input.ToCharArray();
             string returnString = "";
+            Array.Sort(listToSort);
 
             foreach(char letter in listToSort)
             {
@@ -63,11 +71,13 @@ namespace FileManagement
             //faktiska siffror. Vi använder en lista här istället för en array eftersom
             //vi kommer att vilja lägga till saker dynamiskt. 
             List<int> intsInList = new List<int>();
+            
+            
 
-            foreach(string siffra in listToSort)
+            for (int i = 0; i < listToSort.Length; i++)
             {
-                //För varje (for each) siffra (vårt valda variabelnamn) i vår lista
-                //ska läggas in i vår lista "intsInList". 
+                intsInList.Add(int.Parse(listToSort[i]));
+
             }
 
             return intsInList;

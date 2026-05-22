@@ -20,6 +20,7 @@ namespace FileManagement
             //Jobba med File01 här
             string result01 = File01Task(input01);
             Console.WriteLine(result01);
+            Console.WriteLine(" ");
 
             //Jobba med File02 här
             //Kalla på funktion
@@ -29,10 +30,15 @@ namespace FileManagement
                 Console.WriteLine(x);
 
             }
+            Console.WriteLine(" ");
 
             //Jobba med File03 här
             //Kalla på funktion
             int[] result03 = File03Task(input03);
+            foreach(int y in result03)
+            {
+                Console.WriteLine(y);
+            }
 
             //Jobba med File04 här
             //Kalla på funktion
@@ -94,7 +100,16 @@ namespace FileManagement
 
             //Returnera listan!
             //Ersätt null med ert resultat!
-            return null;
+            List<int> nummer = new List<int>();
+            foreach (string s in input)
+            {
+                nummer.Add(int.Parse(s));
+            }
+
+            nummer.Sort();
+            return nummer.ToArray();
+
+            //return null;
         }
 
         static void File04Task(string[] input)

@@ -15,7 +15,8 @@ namespace FileManagement
             string input01 = File.ReadAllText("../../FilesToRead/File01.txt");
             string input02 = File.ReadAllText("../../FilesToRead/File02.txt");
             string[] input03 = File.ReadAllLines("../../FilesToRead/File03.txt");
-            //string[] input04 = ??? (ReadAllLines)
+            string[] input04 = File.ReadAllLines("../../FilesToRead/File04.txt");
+            
 
             //Jobba med File01 här
             string result01 = File01Task(input01);
@@ -39,14 +40,27 @@ namespace FileManagement
             {
                 Console.WriteLine(y);
             }
+            Console.WriteLine(" ");
 
             //Jobba med File04 här
             //Kalla på funktion
             //Skriv till textdokumentet
+            string[] result04 = File04Task(input04);
+            File.WriteAllText("../../FilesToRead/File05.txt", "");
 
+            foreach (string x in result04)
+            {
+                File.AppendAllText("../../FilesToRead/File05.txt", x + "\n");
+                Console.WriteLine(x);
+              
+            }
+            //Skriv till textfil!
+
+         
             //Jobba med File05 här
             //Kalla på funktion
             //Skriv till textdokumentet
+            //string[] result05 = File05Task(input05);
         }
 
         static string File01Task(string input)
@@ -112,21 +126,35 @@ namespace FileManagement
             //return null;
         }
 
-        static void File04Task(string[] input)
+        static string[] File04Task(string[] input)
         {
+            string[] svar = new string[input.Length];
+            svar = input;
+            Console.Write(svar[0]);
+
+            svar[0] += Console.ReadLine();
+            Console.Write(svar[1]);
+            svar[1] += Console.ReadLine();
+            Console.Write(svar[2]);
+            svar[2] += Console.ReadLine();
+            Console.Write(svar[3]);
+            svar[3] += Console.ReadLine();
+            Console.Clear();
+            
             //Svara på frågorna! 
             //Ledtråd: jobba med varje array-element för sig.
-            
-            
+
+
             //return? Just nu är funktionen "void" -- dvs. funktionen skickar inte tillbaka 
             //något värde.
             //Vill ni skicka tillbaka en string eller en List<string?/char?>?
+            return svar;
         }
 
-        static void File05Task(string[] input)
-        {
+        //static string[] File05Task(string[] input)
+        //{
             //Samma uppgift som File04, fast nu ska ni ersätta den existerande informationen
             //med ny information!
-        }
+        //}
     }
 }
